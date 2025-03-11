@@ -4,7 +4,7 @@ import 'firebase/auth';
 
 // 1) when seeding the database you'll have to uncomment this!
 // import { seedDatabase } from '../seed';
-
+//hehehHA
 const config = {
   apiKey: process.env.REACT_APP_API_K,
   authDomain: process.env.REACT_APP_AUTH_DOMAIN,
